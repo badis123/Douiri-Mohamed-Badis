@@ -1,4 +1,4 @@
-# Douiri-Mohamed-Badis
+# 💫 About Me:
 
 👋 Hi, I’m Mohamed Badis Douiri
 💻 Junior Full-Stack Developer | Fresh Graduate in Software Engineering & Information Systems
