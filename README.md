@@ -3,6 +3,7 @@
 👋 Hi, I’m Mohamed Badis Douiri
 💻 Junior Full-Stack Developer | Fresh Graduate in Software Engineering & Information Systems
 
+
 🚀 I build applications with:
 
 Frontend: Angular
@@ -13,6 +14,7 @@ Databases: PostgreSQL, MongoDB, SQL Server
 
 DevOps & Tools: Docker, Linux, Nginx, Git
 
+
 🛠️ Key Projects:
 
 🏠 Real Estate Marketplace (Angular, Spring Boot, Docker, PostgreSQL, MongoDB)
@@ -22,6 +24,7 @@ DevOps & Tools: Docker, Linux, Nginx, Git
 🛒 E-commerce platform with Stripe integration
 
 🌱 Always learning, always building.
+
 
 📫 Connect with me:
 
